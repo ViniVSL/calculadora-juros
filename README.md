@@ -1,4 +1,4 @@
-## 💰 Calculadora de Juros Diários
+## 💰 Calculadora de Juros Diários 
 
 * Este projeto é uma aplicação Java simples e objetiva desenvolvida para calcular o valor de juros e multa sobre um título vencido, utilizando a data de execução em tempo real como referência para o cálculo.
 * O foco principal é garantir a precisão financeira através do uso da classe java.math.BigDecimal e a exatidão temporal com o java.time.LocalDate.
